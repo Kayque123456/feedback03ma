@@ -2,7 +2,7 @@ import iconStar from "./imagens/icon-star.svg"
 
 export function App() {
   return (
-    <div>
+    <div className="bg-gradient-dark text-white mx-6 p-6">
       <div>
         <img src={iconStar} alt="icon star" />
       </div>
@@ -24,4 +24,4 @@ export function App() {
   )
 }
 
-// 15:31
+// 20:29
