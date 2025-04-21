@@ -1,5 +1,5 @@
 import iconStar from "../imagens/icon-star.svg"
-import { inputButton  } from "./InputButton"
+import { InputButton  } from "./InputButton"
 
 export function CardInicial({ setNotaAvaliacao, notaAvaliacao, setSubmited }) {
 
