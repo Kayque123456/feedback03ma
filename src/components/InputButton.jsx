@@ -1,4 +1,4 @@
-export function inputButton({ value, setNotaAvaliacao }) {
+export function InputButton({ value, setNotaAvaliacao }) {
     function handleMudarNotaAvaliacao(nota) {
         setNotaAvaliacao(nota)
     }
